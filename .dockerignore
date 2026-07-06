@@ -1,0 +1,6 @@
+.env
+.git
+__pycache__
+*.pyc
+vector_store/
+.pytest_cache
